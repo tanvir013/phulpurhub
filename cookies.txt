@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+lovable.app	TRUE	/	FALSE	1999999999	__cf_bm	FTt3o4w.qiK8aj6CPeYcMUiNdioviICEnPjdmWdJZIU-1776708419.16074-1.0.1.1-GthBSHL3MqtfTYBTJWwaRnuvU71rkmrAZ8l0QD2ni70A77M2aT81kZtKQzBvKQuy0mm9IKKgNwrkOWIIAZ1mHLmsJopSA0uG1TQ6iFSiCcdoyYbhVsGRlh48QUbkeZop
+phulpur-connect.lovable.app	TRUE	/	FALSE	1999999999	__dpl	0cde3c72833cd5f9de6a7dbcf9d302e4fb46e7359f705025b6e9892c75a4fec5
+phulpur-connect.lovable.app	TRUE	/	FALSE	1999999999	SameSite	Lax
+
